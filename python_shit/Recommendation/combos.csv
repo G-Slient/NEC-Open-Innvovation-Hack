@@ -1,0 +1,78 @@
+items,item_base,item_add,item_length,support,lift
+"frozenset({'olive oil', 'whole wheat pasta', 'mineral water'})","frozenset({'whole wheat pasta', 'mineral water'})",frozenset({'olive oil'}),3,0.0038661511798426876,6.115862573099416
+"frozenset({'frozen vegetables', 'milk', 'mineral water', 'soup'})","frozenset({'frozen vegetables', 'milk', 'mineral water'})",frozenset({'soup'}),4,0.0030662578322890282,5.484407286136631
+"frozenset({'fromage blanc', 'honey'})",frozenset({'fromage blanc'}),frozenset({'honey'}),2,0.003332888948140248,5.164270764485569
+"frozenset({'paneer', 'light cream'})",frozenset({'light cream'}),frozenset({'paneer'}),2,0.004532728969470737,4.84395061728395
+"frozenset({'escalope', 'pasta'})",frozenset({'pasta'}),frozenset({'escalope'}),2,0.005865884548726837,4.700811850163794
+"frozenset({'herb & pepper', 'french fries', 'palak'})","frozenset({'herb & pepper', 'french fries'})",frozenset({'palak'}),3,0.003199573390214638,4.697421981004071
+"frozenset({'frozen vegetables', 'shrimp', 'chocolate', 'mineral water'})","frozenset({'frozen vegetables', 'chocolate', 'mineral water'})",frozenset({'shrimp'}),4,0.003199573390214638,4.600899611531385
+"frozenset({'frozen vegetables', 'milk', 'olive oil', 'mineral water'})","frozenset({'frozen vegetables', 'milk', 'mineral water'})",frozenset({'olive oil'}),4,0.003332888948140248,4.573557387444516
+"frozenset({'shrimp', 'pasta'})",frozenset({'pasta'}),frozenset({'shrimp'}),2,0.005065991201173177,4.506672147735896
+"frozenset({'herb & pepper', 'palak', 'chocolate'})","frozenset({'herb & pepper', 'chocolate'})",frozenset({'palak'}),3,0.003999466737768298,4.4901827759597746
+"frozenset({'frozen vegetables', 'cake', 'tomatoes'})","frozenset({'frozen vegetables', 'cake'})",frozenset({'tomatoes'}),3,0.0030662578322890282,4.367560314928736
+"frozenset({'milk', 'tomatoes', 'soup'})","frozenset({'milk', 'tomatoes'})",frozenset({'soup'}),3,0.0030662578322890282,4.335293378565146
+"frozenset({'milk', 'olive oil', 'soup'})","frozenset({'milk', 'olive oil'})",frozenset({'soup'}),3,0.0035995200639914677,4.174781497361478
+"frozenset({'olive oil', 'whole wheat pasta'})",frozenset({'whole wheat pasta'}),frozenset({'olive oil'}),2,0.007998933475536596,4.122410097642296
+"frozenset({'herb & pepper', 'spaghetti', 'palak'})","frozenset({'herb & pepper', 'spaghetti'})",frozenset({'palak'}),3,0.006399146780429276,4.004359721511667
+"frozenset({'herb & pepper', 'milk', 'palak'})","frozenset({'herb & pepper', 'milk'})",frozenset({'palak'}),3,0.0035995200639914677,3.9825968969382335
+"frozenset({'herb & pepper', 'palak', 'mineral water'})","frozenset({'herb & pepper', 'mineral water'})",frozenset({'palak'}),3,0.006665777896280496,3.975682666214383
+"frozenset({'frozen vegetables', 'shrimp', 'spaghetti', 'mineral water'})","frozenset({'frozen vegetables', 'spaghetti', 'mineral water'})",frozenset({'shrimp'}),4,0.003332888948140248,3.8873341625207294
+"frozenset({'spaghetti', 'palak', 'cereals'})","frozenset({'palak', 'cereals'})",frozenset({'spaghetti'}),3,0.0030662578322890282,3.8853031258445188
+"frozenset({'frozen vegetables', 'milk', 'soup'})","frozenset({'frozen vegetables', 'soup'})",frozenset({'milk'}),3,0.003999466737768298,3.858539094650206
+"frozenset({'tomato sauce', 'palak'})",frozenset({'tomato sauce'}),frozenset({'palak'}),2,0.005332622317024397,3.840659481324083
+"frozenset({'escalope', 'mushroom cream sauce'})",frozenset({'mushroom cream sauce'}),frozenset({'escalope'}),2,0.005732568990801226,3.790832696715049
+"frozenset({'frozen vegetables', 'spaghetti', 'tomatoes', 'mineral water'})","frozenset({'frozen vegetables', 'spaghetti', 'mineral water'})",frozenset({'tomatoes'}),4,0.0030662578322890282,3.7366904916612524
+"frozenset({'frozen vegetables', 'spaghetti', 'palak', 'mineral water'})","frozenset({'frozen vegetables', 'spaghetti', 'mineral water'})",frozenset({'palak'}),4,0.004399413411545127,3.7318407960199007
+"frozenset({'olive oil', 'spaghetti', 'chocolate', 'mineral water'})","frozenset({'spaghetti', 'chocolate', 'mineral water'})",frozenset({'olive oil'}),4,0.0038661511798426876,3.700353825740822
+"frozenset({'milk', 'spaghetti', 'mineral water', 'frozen smoothie'})","frozenset({'spaghetti', 'mineral water', 'frozen smoothie'})",frozenset({'milk'}),4,0.003199573390214638,3.631566206729606
+"frozenset({'milk', 'paneer', 'olive oil'})","frozenset({'milk', 'olive oil'})",frozenset({'paneer'}),3,0.0035995200639914677,3.51609375
+"frozenset({'olive oil', 'spaghetti', 'tomatoes'})","frozenset({'olive oil', 'tomatoes'})",frozenset({'spaghetti'}),3,0.004399413411545127,3.5099115194827295
+"frozenset({'frozen vegetables', 'shrimp', 'tomatoes'})","frozenset({'frozen vegetables', 'shrimp'})",frozenset({'tomatoes'}),3,0.003999466737768298,3.5092397660818717
+"frozenset({'milk', 'spaghetti', 'whole wheat pasta'})","frozenset({'spaghetti', 'whole wheat pasta'})",frozenset({'milk'}),3,0.003999466737768298,3.5077628133183696
+"frozenset({'frozen vegetables', 'spaghetti', 'tomatoes'})","frozenset({'frozen vegetables', 'spaghetti'})",frozenset({'tomatoes'}),3,0.006665777896280496,3.4980460188216425
+"frozenset({'frozen vegetables', 'palak', 'chocolate', 'mineral water'})","frozenset({'frozen vegetables', 'chocolate', 'mineral water'})",frozenset({'palak'}),4,0.003332888948140248,3.4855300087358976
+"frozenset({'spaghetti', 'pepper', 'palak'})","frozenset({'pepper', 'spaghetti'})",frozenset({'palak'}),3,0.003332888948140248,3.4384282518610876
+"frozenset({'frozen vegetables', 'milk', 'palak', 'mineral water'})","frozenset({'frozen vegetables', 'milk', 'mineral water'})",frozenset({'palak'}),4,0.0037328356219170776,3.4334570302921317
+"frozenset({'olive oil', 'mineral water', 'soup'})","frozenset({'mineral water', 'soup'})",frozenset({'olive oil'}),3,0.005199306759098787,3.4230301186492245
+"frozenset({'milk', 'palak', 'olive oil'})","frozenset({'milk', 'palak'})",frozenset({'olive oil'}),3,0.004932675643247567,3.40494417862839
+"frozenset({'frozen vegetables', 'milk', 'spaghetti', 'chocolate'})","frozenset({'frozen vegetables', 'spaghetti', 'chocolate'})",frozenset({'milk'}),4,0.0034662045060658577,3.4007463207086555
+"frozenset({'frozen vegetables', 'green tea', 'tomatoes'})","frozenset({'frozen vegetables', 'green tea'})",frozenset({'tomatoes'}),3,0.003332888948140248,3.38468341635983
+"frozenset({'herb & pepper', 'eggs', 'palak'})","frozenset({'herb & pepper', 'eggs'})",frozenset({'palak'}),3,0.0041327822956939075,3.3564912381997174
+"frozenset({'tomato sauce', 'spaghetti', 'palak'})","frozenset({'tomato sauce', 'palak'})",frozenset({'spaghetti'}),3,0.0030662578322890282,3.3025076569678413
+"frozenset({'herb & pepper', 'palak'})",frozenset({'herb & pepper'}),frozenset({'palak'}),2,0.015997866951073192,3.2919938411349285
+"frozenset({'grated cheese', 'spaghetti', 'palak'})","frozenset({'grated cheese', 'spaghetti'})",frozenset({'palak'}),3,0.005332622317024397,3.283144395325426
+"frozenset({'cooking oil', 'spaghetti', 'palak'})","frozenset({'cooking oil', 'palak'})",frozenset({'spaghetti'}),3,0.004799360085321957,3.2819951870487856
+"frozenset({'frozen vegetables', 'shrimp', 'chocolate'})","frozenset({'frozen vegetables', 'chocolate'})",frozenset({'shrimp'}),3,0.005332622317024397,3.2545123221103784
+"frozenset({'milk', 'potato chips', 'turkey'})","frozenset({'milk', 'turkey'})",frozenset({'potato chips'}),3,0.003199573390214638,3.2384241770102533
+"frozenset({'spaghetti', 'palak', 'tomatoes', 'mineral water'})","frozenset({'palak', 'tomatoes', 'mineral water'})",frozenset({'spaghetti'}),4,0.0030662578322890282,3.221958689724723
+"frozenset({'milk', 'spaghetti', 'olive oil', 'mineral water'})","frozenset({'milk', 'spaghetti', 'mineral water'})",frozenset({'olive oil'}),4,0.003332888948140248,3.216993755575379
+"frozenset({'curd', 'spaghetti', 'milk'})","frozenset({'curd', 'spaghetti'})",frozenset({'milk'}),3,0.003332888948140248,3.215449245541838
+"frozenset({'milk', 'cake', 'potato chips'})","frozenset({'milk', 'cake'})",frozenset({'potato chips'}),3,0.0037328356219170776,3.211437308868501
+"frozenset({'frozen vegetables', 'shrimp', 'mineral water'})","frozenset({'shrimp', 'mineral water'})",frozenset({'frozen vegetables'}),3,0.007199040127982935,3.200616332819722
+"frozenset({'frozen vegetables', 'eggs', 'mineral water', 'milk'})","frozenset({'frozen vegetables', 'eggs', 'mineral water'})",frozenset({'milk'}),4,0.0037328356219170776,3.177620430888405
+"frozenset({'spaghetti', 'tomatoes', 'whole wheat rice'})","frozenset({'spaghetti', 'whole wheat rice'})",frozenset({'tomatoes'}),3,0.0030662578322890282,3.1726617382029496
+"frozenset({'milk', 'palak', 'soup'})","frozenset({'palak', 'soup'})",frozenset({'milk'}),3,0.003999466737768298,3.1714019956029094
+"frozenset({'frozen vegetables', 'milk', 'chocolate', 'mineral water'})","frozenset({'frozen vegetables', 'chocolate', 'mineral water'})",frozenset({'milk'}),4,0.003999466737768298,3.1714019956029094
+"frozenset({'frozen vegetables', 'spaghetti', 'palak'})","frozenset({'frozen vegetables', 'spaghetti'})",frozenset({'palak'}),3,0.008665511265164644,3.165328208890303
+"frozenset({'milk', 'palak', 'paneer'})","frozenset({'palak', 'paneer'})",frozenset({'milk'}),3,0.0038661511798426876,3.152046020981858
+"frozenset({'frozen vegetables', 'olive oil', 'spaghetti'})","frozenset({'frozen vegetables', 'spaghetti'})",frozenset({'olive oil'}),3,0.005732568990801226,3.1240241752707125
+"frozenset({'olive oil', 'light cream'})",frozenset({'light cream'}),frozenset({'olive oil'}),2,0.003199573390214638,3.1147098515519573
+"frozenset({'turkey', 'chocolate', 'potato chips'})","frozenset({'turkey', 'chocolate'})",frozenset({'potato chips'}),3,0.0030662578322890282,3.1034898363014927
+"frozenset({'milk', 'spaghetti', 'tomatoes', 'mineral water'})","frozenset({'milk', 'spaghetti', 'mineral water'})",frozenset({'tomatoes'}),4,0.003332888948140248,3.0978458387022165
+"frozenset({'frozen vegetables', 'milk', 'tomatoes'})","frozenset({'milk', 'tomatoes'})",frozenset({'frozen vegetables'}),3,0.0041327822956939075,3.0973160173160172
+"frozenset({'frozen vegetables', 'milk', 'olive oil'})","frozenset({'frozen vegetables', 'milk'})",frozenset({'olive oil'}),3,0.004799360085321957,3.088314005352364
+"frozenset({'milk', 'spaghetti', 'olive oil'})","frozenset({'milk', 'spaghetti'})",frozenset({'olive oil'}),3,0.007199040127982935,3.0825089038385434
+"frozenset({'spaghetti', 'frozen vegetables', 'palak', 'chocolate'})","frozenset({'frozen vegetables', 'palak', 'chocolate'})",frozenset({'spaghetti'}),4,0.0030662578322890282,3.0721001460165964
+"frozenset({'frozen vegetables', 'milk', 'spaghetti', 'palak'})","frozenset({'frozen vegetables', 'milk', 'palak'})",frozenset({'spaghetti'}),4,0.0030662578322890282,3.0721001460165964
+"frozenset({'olive oil', 'spaghetti', 'paneer'})","frozenset({'spaghetti', 'paneer'})",frozenset({'olive oil'}),3,0.0034662045060658577,3.0603835169318647
+"frozenset({'shrimp', 'spaghetti', 'chocolate', 'mineral water'})","frozenset({'spaghetti', 'chocolate', 'mineral water'})",frozenset({'shrimp'}),4,0.0034662045060658577,3.0576006522011783
+"frozenset({'olive oil', 'pancakes', 'spaghetti'})","frozenset({'pancakes', 'spaghetti'})",frozenset({'olive oil'}),3,0.005065991201173177,3.0529100529100526
+"frozenset({'milk', 'chocolate', 'soup'})","frozenset({'chocolate', 'soup'})",frozenset({'milk'}),3,0.003999466737768298,3.0462150747238472
+"frozenset({'olive oil', 'spaghetti', 'palak', 'mineral water'})","frozenset({'olive oil', 'spaghetti', 'mineral water'})",frozenset({'palak'}),4,0.0030662578322890282,3.0401064335935435
+"frozenset({'milk', 'olive oil', 'shrimp'})","frozenset({'olive oil', 'shrimp'})",frozenset({'milk'}),3,0.003199573390214638,3.0362274843149164
+"frozenset({'eggs', 'spaghetti', 'red wine'})","frozenset({'eggs', 'red wine'})",frozenset({'spaghetti'}),3,0.0037328356219170776,3.0342974370828397
+"frozenset({'green tea', 'palak', 'tomatoes'})","frozenset({'green tea', 'palak'})",frozenset({'tomatoes'}),3,0.0030662578322890282,3.0297490472929067
+"frozenset({'eggs', 'palak', 'chocolate', 'mineral water'})","frozenset({'eggs', 'chocolate', 'mineral water'})",frozenset({'palak'}),4,0.003999466737768298,3.023093354111531
+"frozenset({'frozen vegetables', 'milk', 'spaghetti', 'mineral water'})","frozenset({'milk', 'spaghetti', 'mineral water'})",frozenset({'frozen vegetables'}),4,0.004532728969470737,3.0228043143297376
+"frozenset({'frozen vegetables', 'shrimp', 'spaghetti'})","frozenset({'frozen vegetables', 'spaghetti'})",frozenset({'shrimp'}),3,0.005999200106652446,3.0131489680782684
+"frozenset({'shrimp', 'spaghetti', 'palak'})","frozenset({'shrimp', 'palak'})",frozenset({'spaghetti'}),3,0.005999200106652446,3.005315360233627
