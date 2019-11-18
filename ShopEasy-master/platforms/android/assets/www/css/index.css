@@ -1,0 +1,36 @@
+#exploreView{
+	visibility: hidden;
+}
+
+#shopView{
+	visibility: hidden;
+	-webkit-overflow-scrolling: auto;
+}
+
+#recommendedStores{
+	visibility: hidden;
+	position: absolute;
+	width: 95%;
+	top:12%;
+}
+
+#billingQr{
+	visibility: hidden;
+	position: absolute;
+}
+
+#selectStore{
+	visibility: hidden;
+}
+
+#qrVerified{
+	visibility: hidden;
+}
+
+#guardSection{
+	visibility: hidden;
+}
+
+#selectView{
+	visibility: hidden;
+}
